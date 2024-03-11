@@ -1,0 +1,91 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &196208143177009889
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4825274500217910400, guid: a37f6ac97dd44014baa6f11afb630ab5, type: 3}
+      propertyPath: m_Name
+      value: enemy littleeye Variant
+      objectReference: {fileID: 0}
+    - target: {fileID: 4825274500217910402, guid: a37f6ac97dd44014baa6f11afb630ab5, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4825274500217910402, guid: a37f6ac97dd44014baa6f11afb630ab5, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 4825274500217910402, guid: a37f6ac97dd44014baa6f11afb630ab5, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.4
+      objectReference: {fileID: 0}
+    - target: {fileID: 4825274500217910402, guid: a37f6ac97dd44014baa6f11afb630ab5, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4825274500217910402, guid: a37f6ac97dd44014baa6f11afb630ab5, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4825274500217910402, guid: a37f6ac97dd44014baa6f11afb630ab5, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4825274500217910402, guid: a37f6ac97dd44014baa6f11afb630ab5, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4825274500217910402, guid: a37f6ac97dd44014baa6f11afb630ab5, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4825274500217910402, guid: a37f6ac97dd44014baa6f11afb630ab5, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4825274500217910402, guid: a37f6ac97dd44014baa6f11afb630ab5, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4825274500217910402, guid: a37f6ac97dd44014baa6f11afb630ab5, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4825274500217910412, guid: a37f6ac97dd44014baa6f11afb630ab5, type: 3}
+      propertyPath: area
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 4825274500217910412, guid: a37f6ac97dd44014baa6f11afb630ab5, type: 3}
+      propertyPath: shouldChase
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4825274500217910412, guid: a37f6ac97dd44014baa6f11afb630ab5, type: 3}
+      propertyPath: rangeToChase
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 4825274500217910412, guid: a37f6ac97dd44014baa6f11afb630ab5, type: 3}
+      propertyPath: damagetoplayer
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 4825274500217910412, guid: a37f6ac97dd44014baa6f11afb630ab5, type: 3}
+      propertyPath: timeshootperiod
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4825274500217910412, guid: a37f6ac97dd44014baa6f11afb630ab5, type: 3}
+      propertyPath: waitAfterHitting
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 4825274500217910414, guid: a37f6ac97dd44014baa6f11afb630ab5, type: 3}
+      propertyPath: currentHealth
+      value: 30
+      objectReference: {fileID: 0}
+    - target: {fileID: 4825274500276832615, guid: a37f6ac97dd44014baa6f11afb630ab5, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: -5647058694231966181, guid: 617b58cfe7abab64bb3b1719c59945a8, type: 3}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: a37f6ac97dd44014baa6f11afb630ab5, type: 3}
